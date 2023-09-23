@@ -1,0 +1,19 @@
+{
+  "name": "blockly-react-hooks",
+  "version": "0.0.1",
+  "description": "Coming Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randrei12/blockly-react-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randrei12/blockly-react-hooks/issues"
+  },
+  "homepage": "https://github.com/randrei12/blockly-react-hooks#readme"
+}
